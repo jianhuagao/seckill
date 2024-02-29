@@ -2,7 +2,7 @@ repo_name: jianhuagao/seckill
 report_id: 1ee32636f46ce1315451e03558fa010e
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-02T06:58:51+00:00'
+timestamp: '2024-02-29T19:51:03+00:00'
 requested_by: lyrric
 provider: github
 branch: master
@@ -123,18 +123,18 @@ tools:
   last_updated_by: lyrric
   last_updated_on: 2020-08-11 11:40:47.000000000 Z
   vulnerabilities:
-  - name: Remote code injection in Log4j
-    cve_id: CVE-2021-44228
-    cve_url: https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
-    detected_date: Dec 14
-    severity: critical
-    first_patched: 2.15.0
   - name: Incomplete fix for Apache Log4j vulnerability
     cve_id: CVE-2021-45046
     cve_url: https://github.com/advisories/GHSA-7rjr-3q55-vv33
     detected_date: Dec 14
     severity: critical
     first_patched: 2.16.0
+  - name: Remote code injection in Log4j
+    cve_id: CVE-2021-44228
+    cve_url: https://github.com/advisories/GHSA-jfh8-c2jp-5v3q
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.15.0
   - name: Apache Log4j2 vulnerable to Improper Input Validation and Uncontrolled Recursion
     cve_id: CVE-2021-45105
     cve_url: https://github.com/advisories/GHSA-p6xc-xr62-6r2g
