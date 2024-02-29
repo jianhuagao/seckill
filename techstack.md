@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jianhuagao/seckill](https://github.com/jianhuagao/seckill)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|02/02/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -75,7 +75,7 @@ Full tech stack [here](/techstack.md)
 |[commons-codec:commons-codec](https://commons.apache.org/proper/commons-codec/)|v1.15|09/25/20|wangxiaodong |Apache-2.0|N/A|
 |[org.apache.commons:commons-lang3](http://commons.apache.org/proper/commons-lang/)|v3.11|09/25/20|wangxiaodong |Apache-2.0|N/A|
 |[org.apache.httpcomponents:httpclient](http://hc.apache.org/httpcomponents-client)|v4.5.12|08/11/20|lyrric |Apache-2.0|[CVE-2020-13956](https://github.com/advisories/GHSA-7r82-7xv7-xcpj) (Moderate)|
-|[org.apache.logging.log4j:log4j-core](https://logging.apache.org/log4j/2.x/)|v2.13.3|08/11/20|lyrric |Apache-2.0|[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q) (Critical)<br/>[CVE-2021-45046](https://github.com/advisories/GHSA-7rjr-3q55-vv33) (Critical)<br/>[CVE-2021-45105](https://github.com/advisories/GHSA-p6xc-xr62-6r2g) (High)<br/>[CVE-2021-44832](https://github.com/advisories/GHSA-8489-44mv-ggj8) (Moderate)|
+|[org.apache.logging.log4j:log4j-core](https://logging.apache.org/log4j/2.x/)|v2.13.3|08/11/20|lyrric |Apache-2.0|[CVE-2021-45046](https://github.com/advisories/GHSA-7rjr-3q55-vv33) (Critical)<br/>[CVE-2021-44228](https://github.com/advisories/GHSA-jfh8-c2jp-5v3q) (Critical)<br/>[CVE-2021-45105](https://github.com/advisories/GHSA-p6xc-xr62-6r2g) (High)<br/>[CVE-2021-44832](https://github.com/advisories/GHSA-8489-44mv-ggj8) (Moderate)|
 
 <br/>
 <div align='center'>
